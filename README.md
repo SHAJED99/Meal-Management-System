@@ -1,5 +1,5 @@
-# Java_project_01
-Java Meal management
+# Meal Management system
+Java, SQLite
 
 Screenshot:
 ![Asset 6@4x](https://user-images.githubusercontent.com/39647986/206314927-1e08ddd3-c5d5-45d0-99c3-66159f982e5b.png)
